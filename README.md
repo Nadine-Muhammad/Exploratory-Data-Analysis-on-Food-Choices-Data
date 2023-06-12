@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis-on-Food-Choices-Data
-Performed data assessment and wrangling on food choices dataset to prepare it for analysis. Then, visualized the data to gain insights and developed a decision tree classification model to predict behaviour.
+This dataset contains college students food and cooking preferences, we dropped the columns with the most null and meaningless values from the excel sheet to reduce the dimensions and clarify the dataset. Performed data assessment, wrangling, and solved several quality and tidiness issues to prepare it for analysis. Then, visualized the data to gain insights and developed a decision tree classification model to predict behaviour.
